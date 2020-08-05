@@ -1,0 +1,224 @@
+2019-10-02 13:48:08,425 INFO daemonizing the supervisord process
+2019-10-02 13:48:08,425 INFO supervisord started with pid 10328
+2019-10-02 13:48:09,429 INFO spawned: 'redis' with pid 10330
+2019-10-02 13:48:09,432 INFO spawned: 'server' with pid 10331
+2019-10-02 13:48:09,435 INFO spawned: 'supervisor' with pid 10332
+2019-10-02 13:48:09,436 INFO spawned: 'worker0' with pid 10333
+2019-10-02 13:48:09,437 INFO spawned: 'worker1' with pid 10334
+2019-10-02 13:48:09,439 INFO spawned: 'worker10' with pid 10335
+2019-10-02 13:48:09,441 INFO spawned: 'worker11' with pid 10336
+2019-10-02 13:48:09,443 INFO spawned: 'worker2' with pid 10340
+2019-10-02 13:48:09,445 INFO spawned: 'worker3' with pid 10341
+2019-10-02 13:48:09,447 INFO spawned: 'worker4' with pid 10342
+2019-10-02 13:48:09,448 INFO spawned: 'worker5' with pid 10343
+2019-10-02 13:48:09,450 INFO spawned: 'worker6' with pid 10344
+2019-10-02 13:48:09,452 INFO spawned: 'worker7' with pid 10345
+2019-10-02 13:48:09,454 INFO spawned: 'worker8' with pid 10346
+2019-10-02 13:48:09,456 INFO spawned: 'worker9' with pid 10347
+2019-10-02 13:48:10,458 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: supervisor entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: worker0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: worker1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: worker10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: worker3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: worker4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,458 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,459 INFO success: worker6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,459 INFO success: worker7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,459 INFO success: worker8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 13:48:10,459 INFO success: worker9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 14:09:49,123 INFO exited: worker11 (exit status 0; expected)
+2019-10-02 14:09:49,204 INFO spawned: 'worker11' with pid 15121
+2019-10-02 14:09:49,932 INFO exited: worker10 (exit status 0; expected)
+2019-10-02 14:09:50,091 INFO spawned: 'worker10' with pid 15127
+2019-10-02 14:09:50,854 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 14:09:51,540 INFO success: worker10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 14:18:20,397 INFO exited: worker11 (exit status 0; expected)
+2019-10-02 14:18:20,419 INFO spawned: 'worker11' with pid 16924
+2019-10-02 14:18:21,538 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 14:18:50,572 INFO exited: worker0 (exit status 0; expected)
+2019-10-02 14:18:50,624 INFO spawned: 'worker0' with pid 17035
+2019-10-02 14:18:51,718 INFO success: worker0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 14:20:24,418 INFO exited: worker11 (exit status 0; expected)
+2019-10-02 14:20:24,422 INFO spawned: 'worker11' with pid 17479
+2019-10-02 14:20:25,723 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 15:14:43,704 INFO exited: worker11 (exit status 0; expected)
+2019-10-02 15:14:44,012 INFO spawned: 'worker11' with pid 28710
+2019-10-02 15:14:45,038 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 15:19:43,900 INFO exited: worker0 (exit status 0; expected)
+2019-10-02 15:19:43,903 INFO spawned: 'worker0' with pid 29785
+2019-10-02 15:19:44,111 INFO exited: worker11 (exit status 0; expected)
+2019-10-02 15:19:44,232 INFO spawned: 'worker11' with pid 29787
+2019-10-02 15:19:44,967 INFO success: worker0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 15:19:45,343 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 20:34:55,032 INFO exited: worker8 (exit status 0; expected)
+2019-10-03 20:34:55,057 INFO spawned: 'worker8' with pid 25320
+2019-10-03 20:34:56,548 INFO success: worker8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 20:37:02,546 INFO exited: worker5 (exit status 0; expected)
+2019-10-03 20:37:03,549 INFO spawned: 'worker5' with pid 25874
+2019-10-03 20:37:04,551 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:31:35,553 INFO exited: worker0 (exit status 0; expected)
+2019-10-03 22:31:35,566 INFO spawned: 'worker0' with pid 17186
+2019-10-03 22:31:36,647 INFO success: worker0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:32:05,316 INFO exited: worker2 (exit status 0; expected)
+2019-10-03 22:32:05,420 INFO spawned: 'worker2' with pid 17288
+2019-10-03 22:32:06,694 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:33:33,692 INFO exited: worker5 (exit status 0; expected)
+2019-10-03 22:33:33,743 INFO spawned: 'worker5' with pid 17665
+2019-10-03 22:33:35,338 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:33:49,392 INFO exited: worker9 (terminated by SIGKILL; not expected)
+2019-10-03 22:33:49,393 INFO spawned: 'worker9' with pid 17821
+2019-10-03 22:33:50,917 INFO success: worker9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:36:57,599 INFO exited: worker7 (exit status 0; expected)
+2019-10-03 22:36:57,605 INFO spawned: 'worker7' with pid 18675
+2019-10-03 22:36:58,649 INFO success: worker7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:37:09,701 INFO exited: worker10 (terminated by SIGKILL; not expected)
+2019-10-03 22:37:09,703 INFO spawned: 'worker10' with pid 18831
+2019-10-03 22:37:10,704 INFO success: worker10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:37:40,360 INFO exited: worker4 (exit status 0; expected)
+2019-10-03 22:37:40,423 INFO spawned: 'worker4' with pid 18932
+2019-10-03 22:37:41,630 INFO success: worker4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:38:10,043 INFO exited: worker11 (exit status 0; expected)
+2019-10-03 22:38:10,112 INFO spawned: 'worker11' with pid 19047
+2019-10-03 22:38:11,228 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:39:39,715 INFO exited: worker2 (exit status 0; expected)
+2019-10-03 22:39:39,781 INFO spawned: 'worker2' with pid 19520
+2019-10-03 22:39:41,124 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 22:39:46,767 INFO exited: worker5 (terminated by SIGKILL; not expected)
+2019-10-03 22:39:46,771 INFO spawned: 'worker5' with pid 19602
+2019-10-03 22:39:48,306 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 23:34:57,623 INFO exited: worker4 (exit status 0; expected)
+2019-10-03 23:34:57,623 INFO exited: worker5 (exit status 0; expected)
+2019-10-03 23:34:57,625 INFO spawned: 'worker4' with pid 32159
+2019-10-03 23:34:57,627 INFO spawned: 'worker5' with pid 32160
+2019-10-03 23:34:57,659 INFO exited: worker7 (exit status 0; expected)
+2019-10-03 23:34:58,063 INFO spawned: 'worker7' with pid 32164
+2019-10-03 23:34:59,190 INFO success: worker4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 23:34:59,190 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 23:34:59,190 INFO success: worker7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 23:39:57,760 INFO exited: worker5 (exit status 0; expected)
+2019-10-03 23:39:57,761 INFO spawned: 'worker5' with pid 858
+2019-10-03 23:39:57,770 INFO exited: worker7 (exit status 0; expected)
+2019-10-03 23:39:57,785 INFO spawned: 'worker7' with pid 859
+2019-10-03 23:39:57,785 INFO exited: worker2 (exit status 0; expected)
+2019-10-03 23:39:57,837 INFO spawned: 'worker2' with pid 860
+2019-10-03 23:39:58,765 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 23:39:59,133 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 23:39:59,133 INFO success: worker7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-03 23:44:58,091 INFO exited: worker4 (exit status 0; expected)
+2019-10-03 23:44:58,122 INFO spawned: 'worker4' with pid 2029
+2019-10-03 23:44:59,541 INFO success: worker4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-04 00:34:58,038 INFO exited: worker7 (exit status 0; expected)
+2019-10-04 00:34:58,046 INFO spawned: 'worker7' with pid 14876
+2019-10-04 00:34:58,047 INFO exited: worker2 (exit status 0; expected)
+2019-10-04 00:34:58,251 INFO spawned: 'worker2' with pid 14877
+2019-10-04 00:34:59,093 INFO success: worker7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-04 00:34:59,370 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-04 00:39:58,056 INFO exited: worker5 (exit status 0; expected)
+2019-10-04 00:39:58,085 INFO spawned: 'worker5' with pid 16020
+2019-10-04 00:39:59,197 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-04 00:44:58,558 INFO exited: worker7 (exit status 0; expected)
+2019-10-04 00:44:58,560 INFO spawned: 'worker7' with pid 17252
+2019-10-04 00:44:59,813 INFO success: worker7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-04 07:09:47,394 INFO exited: worker8 (exit status 0; expected)
+2019-10-04 07:09:47,397 INFO spawned: 'worker8' with pid 10364
+2019-10-04 07:09:48,499 INFO success: worker8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-04 22:45:57,571 INFO exited: worker1 (exit status 0; expected)
+2019-10-04 22:45:57,579 INFO spawned: 'worker1' with pid 32094
+2019-10-04 22:45:58,585 INFO success: worker1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-05 00:58:20,733 INFO exited: worker0 (exit status 0; expected)
+2019-10-05 00:58:20,850 INFO spawned: 'worker0' with pid 31551
+2019-10-05 00:58:22,155 INFO success: worker0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-05 00:58:55,019 INFO exited: worker10 (exit status 0; expected)
+2019-10-05 00:58:55,053 INFO spawned: 'worker10' with pid 31687
+2019-10-05 00:58:56,483 INFO success: worker10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-05 02:00:10,061 INFO exited: worker10 (exit status 0; expected)
+2019-10-05 02:00:10,072 INFO spawned: 'worker10' with pid 14515
+2019-10-05 02:00:10,164 INFO exited: worker0 (exit status 0; expected)
+2019-10-05 02:00:10,238 INFO spawned: 'worker0' with pid 14516
+2019-10-05 02:00:11,364 INFO success: worker0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-05 02:00:11,364 INFO success: worker10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-05 13:52:28,744 INFO exited: worker2 (exit status 0; expected)
+2019-10-05 13:52:28,761 INFO spawned: 'worker2' with pid 19192
+2019-10-05 13:52:30,034 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-05 15:06:07,197 INFO exited: worker8 (terminated by SIGKILL; not expected)
+2019-10-05 15:06:07,199 INFO spawned: 'worker8' with pid 1719
+2019-10-05 15:06:09,107 INFO success: worker8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:30:06,713 INFO exited: worker2 (exit status 0; expected)
+2019-10-06 20:30:06,751 INFO spawned: 'worker2' with pid 3950
+2019-10-06 20:30:07,824 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:30:42,179 INFO exited: worker9 (exit status 0; expected)
+2019-10-06 20:30:42,263 INFO spawned: 'worker9' with pid 4163
+2019-10-06 20:30:43,902 INFO success: worker9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:30:51,080 INFO exited: worker10 (exit status 0; expected)
+2019-10-06 20:30:51,754 INFO spawned: 'worker10' with pid 4350
+2019-10-06 20:30:53,359 INFO success: worker10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:31:00,526 INFO exited: worker9 (exit status 0; expected)
+2019-10-06 20:31:00,895 INFO spawned: 'worker9' with pid 4476
+2019-10-06 20:31:02,033 INFO success: worker9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:31:08,872 INFO exited: worker2 (exit status 0; expected)
+2019-10-06 20:31:08,955 INFO spawned: 'worker2' with pid 4603
+2019-10-06 20:31:10,393 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:36:10,091 INFO exited: worker5 (exit status 0; expected)
+2019-10-06 20:36:10,309 INFO spawned: 'worker5' with pid 6456
+2019-10-06 20:36:11,658 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:36:42,014 INFO exited: worker11 (exit status 0; expected)
+2019-10-06 20:36:42,424 INFO spawned: 'worker11' with pid 6617
+2019-10-06 20:36:43,879 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:36:55,144 INFO exited: worker7 (exit status 0; expected)
+2019-10-06 20:36:55,425 INFO spawned: 'worker7' with pid 6710
+2019-10-06 20:36:56,836 INFO success: worker7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:37:06,202 INFO exited: worker11 (exit status 0; expected)
+2019-10-06 20:37:06,423 INFO spawned: 'worker11' with pid 6792
+2019-10-06 20:37:07,804 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:37:16,781 INFO exited: worker5 (exit status 0; expected)
+2019-10-06 20:37:17,785 INFO spawned: 'worker5' with pid 6868
+2019-10-06 20:37:18,787 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:39:05,996 INFO exited: worker1 (exit status 0; expected)
+2019-10-06 20:39:06,186 INFO spawned: 'worker1' with pid 7337
+2019-10-06 20:39:07,651 INFO success: worker1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 20:39:53,408 INFO exited: worker2 (exit status 0; expected)
+2019-10-06 20:39:53,661 INFO spawned: 'worker2' with pid 7562
+2019-10-06 20:39:54,979 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 21:30:29,187 INFO exited: worker5 (exit status 0; expected)
+2019-10-06 21:30:29,247 INFO spawned: 'worker5' with pid 19020
+2019-10-06 21:30:29,408 INFO exited: worker2 (exit status 0; expected)
+2019-10-06 21:30:29,639 INFO spawned: 'worker2' with pid 19023
+2019-10-06 21:30:30,308 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 21:30:30,643 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 21:40:28,977 INFO exited: worker2 (exit status 0; expected)
+2019-10-06 21:40:28,990 INFO spawned: 'worker2' with pid 21218
+2019-10-06 21:40:28,990 INFO exited: worker5 (exit status 0; expected)
+2019-10-06 21:40:29,541 INFO spawned: 'worker5' with pid 21220
+2019-10-06 21:40:29,910 INFO exited: worker1 (exit status 0; expected)
+2019-10-06 21:40:29,939 INFO spawned: 'worker1' with pid 21222
+2019-10-06 21:40:30,627 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 21:40:30,627 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 21:40:30,988 INFO success: worker1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 22:30:30,036 INFO exited: worker2 (exit status 0; expected)
+2019-10-06 22:30:30,601 INFO spawned: 'worker2' with pid 31470
+2019-10-06 22:30:31,933 INFO success: worker2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-07 04:40:12,260 INFO exited: worker3 (exit status 0; expected)
+2019-10-07 04:40:12,359 INFO spawned: 'worker3' with pid 18768
+2019-10-07 04:40:13,362 INFO success: worker3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-07 08:49:21,924 INFO exited: worker10 (terminated by SIGKILL; not expected)
+2019-10-07 08:49:21,927 INFO spawned: 'worker10' with pid 6021
+2019-10-07 08:49:22,929 INFO success: worker10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-07 08:49:22,929 INFO exited: worker7 (terminated by SIGKILL; not expected)
+2019-10-07 08:49:22,931 INFO spawned: 'worker7' with pid 6026
+2019-10-07 08:49:24,548 INFO success: worker7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-07 13:20:56,829 INFO exited: worker5 (exit status 0; expected)
+2019-10-07 13:20:57,832 INFO spawned: 'worker5' with pid 3049
+2019-10-07 13:20:58,834 INFO success: worker5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-08 00:49:57,546 INFO exited: worker11 (exit status 0; expected)
+2019-10-08 00:49:58,549 INFO spawned: 'worker11' with pid 22113
+2019-10-08 00:49:59,552 INFO success: worker11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-08 13:09:53,497 INFO exited: worker1 (exit status 0; expected)
+2019-10-08 13:09:53,514 INFO spawned: 'worker1' with pid 6785
+2019-10-08 13:09:54,878 INFO success: worker1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-08 13:10:32,110 INFO exited: worker9 (exit status 0; expected)
+2019-10-08 13:10:32,118 INFO spawned: 'worker9' with pid 6915
+2019-10-08 13:10:33,772 INFO success: worker9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
